@@ -1,0 +1,39 @@
+
+
+h1{
+    margin-top: 30px;
+    float: none;
+    color: black;
+    text-align: center;
+    text-size-adjust: auto;
+}
+
+p{
+    margin: auto;
+    float: none;
+    text-align: justify;
+    font-size: x-large;
+}
+#modo{
+    box-sizing: border-box;
+    width: 150px;
+    height: 85px;
+    background-color: rgb(245, 253, 253);
+    margin: auto;
+    padding: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    cursor: pointer;
+    border-radius: 100px;
+    border: 2px;
+    border-color: black;
+    border-style: solid;
+    
+}
+.circulo{
+    background-color: rgb(245, 229, 9);
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}

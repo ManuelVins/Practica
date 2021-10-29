@@ -1,0 +1,18 @@
+.dark{
+    background-color: black;
+}
+
+.dark h1{
+    
+    color: blanchedalmond;
+}
+
+.dark p{
+    color: gainsboro;
+}
+.dark .modo{
+    background-color: gainsboro;
+}
+.dark .circulo{
+    background-color: gray;
+}
